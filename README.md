@@ -29,6 +29,7 @@ Step two:
 Write the code to change each servo motor position.
 
 Output:
+
 ![Screenshot 2024-08-02 232433](https://github.com/user-attachments/assets/06d9ce1e-317c-4075-a191-3fa0e10db5a3)
 
 
