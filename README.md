@@ -35,6 +35,8 @@ Output:
 ![Screenshot 2024-08-02 232433](https://github.com/user-attachments/assets/06d9ce1e-317c-4075-a191-3fa0e10db5a3)
 
 This is a video that demonstrates controlling one servo using potentiometers
+
+
 https://github.com/user-attachments/assets/4aa96697-fa82-4517-96c6-13c929c93841
 
 
